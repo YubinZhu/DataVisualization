@@ -1,4 +1,4 @@
-package hello;
+package yubzhu.qa.hello;
 
 /**
  * Created by 朱宇斌 on 2017/12/14
