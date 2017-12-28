@@ -17,6 +17,7 @@
 
     <modules>
         <module>service</module>
+        <module>shared</module>
     </modules>
 
 </project>
